@@ -1,0 +1,32 @@
+[
+    {
+        "level": 1,
+        "nameen": "Diamond Level",
+        "namezh": "鑽石級贊助"
+    },
+    {
+        "level": 2,
+        "nameen": "Gold Level",
+        "namezh": "黃金級贊助"
+    },
+    {
+        "level": 3,
+        "nameen": "Silver Level",
+        "namezh": "白銀級贊助"
+    },
+    {
+        "level": 4,
+        "nameen": "Bronze Level",
+        "namezh": "青銅級贊助"
+    },
+    {
+        "level": 5,
+        "nameen": "Co-host",
+        "namezh": "協辦單位"
+    },
+    {
+        "level": 6,
+        "nameen": "Media Partners",
+        "namezh": "媒體夥伴"
+    }
+]

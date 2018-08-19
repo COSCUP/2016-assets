@@ -1,0 +1,47 @@
+[
+    {
+        "room": "R0",
+        "building": "人文館",
+        "name": "國際會議廳"
+    },
+    {
+        "room": "R1",
+        "building": "人文館",
+        "name": "第一會議室"
+    },
+    {
+        "room": "R2",
+        "building": "人文館",
+        "name": "第二會議室"
+    },
+    {
+        "room": "H0",
+        "building": "活動中心",
+        "name": "大禮堂"
+    },
+    {
+        "room": "H1",
+        "building": "活動中心",
+        "name": "第一會議室"
+    },
+    {
+        "room": "H2",
+        "building": "活動中心",
+        "name": "第二會議室"
+    },
+    {
+        "room": "H3",
+        "building": "活動中心",
+        "name": "第三會議室"
+    },
+    {
+        "room": "H4",
+        "building": "活動中心",
+        "name": "第四會議室"
+    },
+    {
+        "room": "HP",
+        "building": "活動中心",
+        "name": "平面會議室"
+    }
+]
